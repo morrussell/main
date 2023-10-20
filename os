@@ -1,7 +1,7 @@
 import os
 
 def switch_to_existing_profile():
-    # Specify the path to the existing SunBrowser profile directory
+    # Specify the path to the existing SunBrowser profile directory.
     profile_dir = "/path/to/your/existing/profile"
 
     # Set the environment variable to point to the existing profile directory
